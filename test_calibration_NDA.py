@@ -1,3 +1,5 @@
+### this calibration function is from https://gitlab.obspm.fr/soler/nenusunpy/-/blob/main/calibration_NDA.py?ref_type=heads
+
 import numpy as np
 import matplotlib.pyplot as plt
 from reading_nancay import read_newroutine
